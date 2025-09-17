@@ -72,12 +72,12 @@ setup(
         ]
     },
     python_requires='>=3.6',
-    license='Apache 2.0 with Commons Clause',
+    license='Apache-2.0',
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Intended Audience :: Developers',
         'Intended Audience :: Financial and Insurance Industry',
-        'License :: Free for non-commercial use',
+#        'License :: Free for non-commercial use',
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
